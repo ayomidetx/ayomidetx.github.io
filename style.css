@@ -1,0 +1,47 @@
+
+/* Lookbook */
+.lookbook {
+    background-color: #fff8f0;
+    text-align: center;
+    padding: 60px 8%;
+}
+
+.lookbook-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.lookbook-gallery img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+/* Style Tips */
+.style-tips {
+    text-align: center;
+    padding: 60px 8%;
+}
+
+.tips-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.tip {
+    background: #fff8f0;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    border: 1px solid #f0d9b5;
+}
+
+.tip h3 {
+    color: #b8860b;
+    margin-bottom: 10px;
+}
